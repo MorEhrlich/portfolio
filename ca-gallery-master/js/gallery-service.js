@@ -12,7 +12,7 @@ function _createProjects() {
             id: 'Mine-Sweeper',
             title: 'Mine-Sweeper',
             desc: 'Be careful of those mines!',
-            url: 'img/portfolio/Mine-Sweeper.png',
+            url: 'img/portfolio/mine-sweeper.png',
             link: 'https://morehrlich.github.io/Mine_Sweeper/',
             publishedAt: new Date(2020, 10, 1),
             labels: []
@@ -30,7 +30,7 @@ function _createProjects() {
             id: 'Touch Nums',
             title: 'Touch Nums',
             desc: 'Better touch those numbers!',
-            url: 'img/portfolio/Touch-Nums.png',
+            url: 'img/portfolio/touch-nums.png',
             link: 'https://morehrlich.github.io/Touch-nums/',
             publishedAt: new Date(2020, 10, 1),
             labels: []
@@ -56,7 +56,7 @@ function _createProjects() {
         {
             id: 'Appsus',
             title: 'Appsus Mail',
-            desc: 'Mail box',
+            desc: 'Mail App',
             url: 'img/portfolio/appsus.jpg',
             link: 'https://morehrlich.github.io/appsus/#/mail',
             publishedAt: new Date(2020, 10, 1),
